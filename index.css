@@ -1,0 +1,17 @@
+h1 {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);   -webkit-background-clip: text;
+  color: transparent;
+}
+
+body
+{
+background-image: linear-gradient(120deg, #a6c0fe 0%, #f68084 100%); center-fixed no-reapet
+background-size: cover;
+}
+
+hr { background-color: black; height: 2px; border: 0; }
+
+ {
+  position: relative;
+  top: 5px
+}
